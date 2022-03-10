@@ -4,7 +4,7 @@ A simplified version of FILMPIRE.
 
 ## 🔴 Live Demo
 
-Not live yet...
+[Click here...](https://amazing-babbage-e8a25c.netlify.app/)
 
 ## Description
 

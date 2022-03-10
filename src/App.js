@@ -12,7 +12,7 @@ function App() {
 
   useEffect(() => {
     searchMovies(searchTitle);
-  }, []);
+  }, [searchTitle]);
 
   const searchMovies = async (title) => {
     try {

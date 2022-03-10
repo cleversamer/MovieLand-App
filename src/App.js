@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { API_URL } from "./config";
-import MovieCard from "./components/MovieCard";
 import SearchBar from "./components/SearchBar";
 import Notification from "./components/Notification";
 

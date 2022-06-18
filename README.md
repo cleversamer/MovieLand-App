@@ -26,7 +26,7 @@ A movie service like Netflix and other similar movie service providers.
 
 ## Authors
 
-Built and authored by [Samer A.](https://twitter.com/ssadawi__)
+Authored by [Samer A.](https://cleversamer.web.app/)
 
 ## Version History
 
